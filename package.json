@@ -1,0 +1,15 @@
+{
+  "name": "videotubebackend",
+  "version": "1.0.0",
+  "description": "backend-app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Node",
+    "Backend"
+  ],
+  "author": "Kumar Satyam",
+  "license": "ISC"
+}
